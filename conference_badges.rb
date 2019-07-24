@@ -11,4 +11,6 @@ def assign_rooms
     puts "Hello, _____! You'll be assigned to room _____!#{counter}"
     puts  "Hello, _____! You'll be assigned to room _____!#{room}"
   end
-  def print
+  def print_and_return_name
+    puts ""
+  end
