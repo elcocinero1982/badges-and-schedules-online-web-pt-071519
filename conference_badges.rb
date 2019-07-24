@@ -12,5 +12,5 @@ def assign_rooms
     puts  "Hello, _____! You'll be assigned to room _____!#{room}"
   end
   def print_and_return_name
-    puts "badge_maker""
+    puts "badge_maker""assign_rooms"
   end
