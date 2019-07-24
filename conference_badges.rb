@@ -11,3 +11,4 @@ def assign_rooms
     puts "Hello, _____! You'll be assigned to room _____!#{counter}"
     puts  "Hello, _____! You'll be assigned to room _____!#{room}"
   end
+  def print
